@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <DesignatorDropdownGroupDef>
+    <defName>DSA_1x</defName>
+  </DesignatorDropdownGroupDef>
+	
+  <DesignatorDropdownGroupDef>
+    <defName>DSA_2x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_3x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_4x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_5x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_6x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_7x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_8x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_9x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_10x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_11x</defName>
+  </DesignatorDropdownGroupDef>
+	
+	<DesignatorDropdownGroupDef>
+    <defName>DSA_12x</defName>
+  </DesignatorDropdownGroupDef>
+
+</Defs>

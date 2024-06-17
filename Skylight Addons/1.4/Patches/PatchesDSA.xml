@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Dubs Skylights Glass+Lights Patch</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightE"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>1</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightF"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>2</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightG"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>3</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightH"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>4</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightI"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>6</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightJ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>5</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightK"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>6</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightL"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>7</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightM"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>8</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightN"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>3</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightO"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>3</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightP"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>4</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightQ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>5</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightR"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>5</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightS"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>8</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightT"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>6</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightU"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>6</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightV"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>13</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightW"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>18</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightX"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>25</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightY"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>32</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightZ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>41</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAA"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>50</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAB"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>61</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAC"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>72</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAD"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>8</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAE"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>9</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAF"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>10</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAG"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>11</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAH"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>12</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAI"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>8</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAJ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>9</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAK"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>11</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAL"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>12</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAM"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>14</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAN"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>15</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAO"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>17</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAP"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>18</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAQ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>10</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAR"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>12</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAS"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>14</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAT"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>16</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAU"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>18</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAV"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>20</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAW"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>22</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAX"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>24</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAY"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>15</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightAZ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>18</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBA"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>20</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBB"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>23</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBC"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>25</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBD"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>28</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBE"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>30</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBF"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>21</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBG"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>24</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBH"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>27</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBI"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>30</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBJ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>33</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBK"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>36</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBL"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>28</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBM"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>32</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBN"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>35</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBO"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>39</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBP"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>42</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBQ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>36</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBR"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>40</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBS"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>44</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBT"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>48</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBU"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>45</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBV"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>50</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBW"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>54</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBX"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>55</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBY"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>60</Glass>
+						</costList>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/ThingDef[defName = "SkyLightBZ"]/costList</xpath>
+					<value>
+						<costList>
+							<Glass>66</Glass>
+						</costList>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+	<Operation Class="PatchOperationInsert">
+		<xpath>/Defs/ThingDef[defName = "SkyLightA"]/label</xpath>
+		<value>
+			<designatorDropdown>DSA_1x</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationInsert">
+		<xpath>/Defs/ThingDef[defName = "SkyLightB"]/label</xpath>
+		<value>
+			<designatorDropdown>DSA_3x</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationInsert">
+		<xpath>/Defs/ThingDef[defName = "SkyLightC"]/label</xpath>
+		<value>
+			<designatorDropdown>DSA_1x</designatorDropdown>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationInsert">
+		<xpath>/Defs/ThingDef[defName = "SkyLightD"]/label</xpath>
+		<value>
+			<designatorDropdown>DSA_2x</designatorDropdown>
+		</value>
+	</Operation>
+</Patch>
